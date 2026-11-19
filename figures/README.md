@@ -1,8 +1,14 @@
-# Figure assets
+# Research figures
 
-- [Annual candidate union area (SVG)](seasonal_candidate_area.svg): a vector bar chart based on the Version 15.1 annual summary.
-- **Pending upload:** `Lekki_V16_Three_Year_Spatial_Comparison.png` — georeferenced candidate-footprint comparison.
-- **Pending upload:** `Lekki_Research_Figure_Overview.png` — research note overview figure.
-- **Pending upload:** `Lekki_Research_Figure_Zoom.png` — independently zoomed candidate-pixel clusters.
+These files illustrate preliminary Sentinel-1 radar-derived candidate surface-water detections in the provisional Lekki study polygon.
 
-The pending images are original PNG exports and must be uploaded without alteration. These annual footprints are disjoint and should not be presented as a single continuous flood-spread path.
+| File | Description |
+|---|---|
+| [Lekki_V16_Three_Year_Spatial_Comparison (1).png](Lekki_V16_Three_Year_Spatial_Comparison%20(1).png) | Main three-year spatial comparison map |
+| [Lekki_Research_Figure_Overview.png](Lekki_Research_Figure_Overview.png) | Research overview figure |
+| [Lekki_Research_Figure_Zoom.png](Lekki_Research_Figure_Zoom.png) | Enlarged candidate detection clusters |
+| [seasonal_candidate_area.svg](seasonal_candidate_area.svg) | Vector chart of annual candidate-union area |
+
+Duplicate PNG uploads were removed after verifying identical Git blob hashes.
+
+**Scientific caution:** These are radar-derived surface-water candidates, not independently confirmed flood extents. The annual candidate footprints do not overlap; they should not be represented as a continuous spreading flood.
