@@ -1,0 +1,4 @@
+year,acquisitions,candidate_pixels,pixel_detections,seasonal_union_ha_from_V15_1,maximum_pixel_frequency,overlap_pixels_with_other_years
+2024,7,8,8,0.079,0.1428571492433548,0
+2025,8,14,14,0.138,0.125,0
+2026,15,36,53,0.355,0.13333334028720856,0
