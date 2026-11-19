@@ -9,6 +9,5 @@ These files illustrate preliminary Sentinel-1 radar-derived candidate surface-wa
 | [Lekki_Research_Figure_Zoom.png](Lekki_Research_Figure_Zoom.png) | Enlarged candidate detection clusters |
 | [seasonal_candidate_area.svg](seasonal_candidate_area.svg) | Vector chart of annual candidate-union area |
 
-Duplicate PNG uploads were removed after verifying identical Git blob hashes.
 
 **Scientific caution:** These are radar-derived surface-water candidates, not independently confirmed flood extents. The annual candidate footprints do not overlap; they should not be represented as a continuous spreading flood.
