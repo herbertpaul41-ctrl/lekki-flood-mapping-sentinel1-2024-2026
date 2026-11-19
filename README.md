@@ -46,6 +46,14 @@ The thresholds are exploratory and require sensitivity testing and independent v
 - Replace the provisional study polygon with a documented boundary where appropriate.
 - Distinguish event-level detections from seasonal unions and avoid interpreting disjoint annual footprints as a spreading flood front.
 
+## Research outputs
+- [Original Version 15.1 Google Earth Engine script](scripts/gee_v15_1_annual_comparison.js)
+- [Annual summary table](data/annual_summary.csv)
+- [Version 16 spatial comparison table](data/v16_spatial_comparison.csv)
+- [Research note (Markdown)](reports/lekki_2024_2026_research_note.md)
+- [Seasonal candidate-area chart (SVG)](figures/seasonal_candidate_area.svg)
+- [Figures upload status](figures/README.md)
+
 ## Repository organization (planned)
 - `scripts/` — verified GEE scripts and subsequent reproducible analysis code.
 - `data/` — small derived tables and metadata; original satellite collections remain at their source.
