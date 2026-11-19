@@ -1,7 +1,6 @@
 # Research reports
 
-- [Research note (Markdown)](lekki_2024_2026_research_note.md) — repository-readable text of the exploratory research note.
-- **Pending upload:** `Lekki_2024_2026_Two_Page_Research_Note.pdf` — original two-page illustrated PDF.
-- **Optional:** editable Word source for future revisions.
+- [Illustrated two-page research note (PDF)](Lekki_2024_2026_Two_Page_Research_Note.pdf) — uploaded and verified in this repository.
+- [Research note (Markdown)](lekki_2024_2026_research_note.md) — online-readable companion with methodology, results and limitations.
 
-The illustrated PDF contains the actual map and zoomed candidate clusters; the Markdown version links to a vector summary chart. Results are preliminary, not independently validated flood extents.
+The report describes preliminary Sentinel-1 radar-derived surface-water candidates; the detections have not been independently validated as floods.
