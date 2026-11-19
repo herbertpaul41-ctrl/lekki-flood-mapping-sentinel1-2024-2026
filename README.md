@@ -46,13 +46,21 @@ The thresholds are exploratory and require sensitivity testing and independent v
 - Replace the provisional study polygon with a documented boundary where appropriate.
 - Distinguish event-level detections from seasonal unions and avoid interpreting disjoint annual footprints as a spreading flood front.
 
+## Spatial comparison map
+
+![Lekki 2024–2026 radar-derived candidate-water spatial comparison](figures/Lekki_V16_Three_Year_Spatial_Comparison%20(1).png)
+
+*Annual radar-derived candidate-water detections, not independently verified flood extents. The three annual candidate footprints do not overlap.*
+
 ## Research outputs
 - [Original Version 15.1 Google Earth Engine script](scripts/gee_v15_1_annual_comparison.js)
 - [Annual summary table](data/annual_summary.csv)
 - [Version 16 spatial comparison table](data/v16_spatial_comparison.csv)
 - [Research note (Markdown)](reports/lekki_2024_2026_research_note.md)
 - [Seasonal candidate-area chart (SVG)](figures/seasonal_candidate_area.svg)
-- [Figures upload status](figures/README.md)
+- [Three-year spatial comparison map](figures/Lekki_V16_Three_Year_Spatial_Comparison%20(1).png)
+- [Research overview figure](figures/Lekki_Research_Figure_Overview.png)
+- [Zoomed candidate clusters](figures/Lekki_Research_Figure_Zoom.png)
 
 ## Repository organization (planned)
 - `scripts/` — verified GEE scripts and subsequent reproducible analysis code.
