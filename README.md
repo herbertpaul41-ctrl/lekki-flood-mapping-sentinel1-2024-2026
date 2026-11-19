@@ -56,23 +56,28 @@ The thresholds are exploratory and require sensitivity testing and independent v
 - [Original Version 15.1 Google Earth Engine script](scripts/gee_v15_1_annual_comparison.js)
 - [Annual summary table](data/annual_summary.csv)
 - [Version 16 spatial comparison table](data/v16_spatial_comparison.csv)
+- [Illustrated two-page research note (PDF)](reports/Lekki_2024_2026_Two_Page_Research_Note.pdf)
 - [Research note (Markdown)](reports/lekki_2024_2026_research_note.md)
+- [2024 candidate raster](data/Lekki_Candidates_2024.tif)
+- [2025 candidate raster](data/Lekki_Candidates_2025.tif)
+- [2026 candidate raster](data/Lekki_Candidates_2026.tif)
+- [Version 16 combined raster](data/Lekki_V16_Combined_Candidate_Footprints.tif)
 - [Seasonal candidate-area chart (SVG)](figures/seasonal_candidate_area.svg)
 - [Three-year spatial comparison map](figures/Lekki_V16_Three_Year_Spatial_Comparison%20(1).png)
 - [Research overview figure](figures/Lekki_Research_Figure_Overview.png)
 - [Zoomed candidate clusters](figures/Lekki_Research_Figure_Zoom.png)
 
-## Repository organization (planned)
+## Repository organization
 - `scripts/` — verified GEE scripts and subsequent reproducible analysis code.
 - `data/` — small derived tables and metadata; original satellite collections remain at their source.
 - `figures/` — maps and comparison plots.
 - `reports/` — research notes and supporting documentation.
 - `docs/` — methods, validation notes and data dictionary.
 
-**Note:** These directories will be populated as verified source scripts and outputs are added. Do not treat this README as evidence that those files have already been uploaded.
+**Current contents:** Original Version 15.1 GEE source code, annual and spatial comparison tables, four derived GeoTIFF rasters, maps, an illustrated PDF research note and documentation. Version 16 analysis source code has not yet been deposited.
 
 ## Data availability and reproducibility
-Sentinel-1 GRD and the supporting datasets are accessed through Google Earth Engine. The precise working GEE scripts, export settings, raster products and any validation datasets should be deposited alongside the report before results are considered fully reproducible.
+Sentinel-1 GRD and the supporting datasets are accessed through Google Earth Engine. The Version 15.1 GEE script and exported rasters are included. The Version 16 spatial comparison source code and independent validation data are not yet included; full reproducibility of that stage therefore remains incomplete.
 
 ## Citation
 If referencing this work, describe it as a **preliminary Sentinel-1 SAR analysis of surface-water candidates**, not a confirmed flood inventory.
